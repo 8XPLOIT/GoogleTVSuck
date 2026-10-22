@@ -1,7 +1,7 @@
-# tv-home
+# GOOGLE TV SUCK - TCL DEBLOATER
 
 **Make a slow, ad-filled Android TV fast and clean again.** Debloat it over Wi-Fi and give it a
-tiny Apple TV-style home screen with rotating nature wallpapers. You can hand the whole thing to
+tiny Apple TV-style home screen with rotating wallpapers. You can hand the whole thing to
 Claude Code with one prompt, or do it by hand with the scripts here.
 
 ![Before: Google TV home with a sponsored hero. After: clean dock over a Lake Louise wallpaper](before-after.png)
@@ -91,6 +91,13 @@ Change the dock: edit `config.xml`, then run `launcher/build-and-install.sh`.
 Android TV and Google TV: TCL, Xiaomi/Redmi, Hisense, Sony, OnePlus, Realme, Nvidia Shield,
 Chromecast with Google TV and most others. Not Samsung (Tizen), LG (webOS) or Fire TV.
 Tested on: TCL Google TV (Android 11). Add yours to `examples/`.
+
+## IMPORTANT APPS IF YOU FOUND IT DONT REMOVE / DO NOT UNINSTALL / DO NOT DISABLE
+- Smartube
+- Bit TV
+- Youtube
+- Netflix
+- I need feature for speak through remote.
 
 ## Credits
 
