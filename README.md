@@ -97,7 +97,9 @@ Tested on: TCL Google TV (Android 11). Add yours to `examples/`.
 - Bit TV
 - Youtube
 - Netflix
-- I need feature for speak through remote.
+- Voice search
+- TV timer+
+- Bluetooth
 
 ## Credits
 
